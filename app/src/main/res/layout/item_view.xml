@@ -20,6 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Java"
+        android:id="@+id/textName"
         android:padding="10dp"
         android:background="#898A8A"
         android:layout_marginLeft="10dp"
